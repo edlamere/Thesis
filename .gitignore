@@ -1,22 +1,5 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @edlamere
- Sign out
- Watch 2,135
-  Star 53,020
-  Fork 22,934 github/gitignore
- Code  Pull requests 161  Projects 0 Insights 
-Branch: master Find file Copy pathgitignore/TeX.gitignore
-1b5fb77  on Mar 31
-@orzechow orzechow Add pdfpc files to Tex.gitignore
-37 contributors @maieul @shiftkey @koppor @arcresu @habi @lszeremeta @tjgrilley @seungwonpark @dopefishh @153957 @wojciechwasko @thomwiggers @thilaire @rogierslag @ptigwe @orzechow @vkusvody @yassu @masgo @lucasgautheron @lighght @Konfekt @izuzak @Gurmeet-Singh @JelteF @flashspys and others
-RawBlameHistory    
-221 lines (173 sloc)  2.14 KB
+## Files from example
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
